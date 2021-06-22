@@ -48,12 +48,20 @@
      
   </p>
   
+   </p>
+  
+  
+  <p align='center'>
+     Did you like what you found here? Buy me a coffee and <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  
   
   <p align='center'>
     📫 How to reach me: <a href='mailto:lfernando.viola@gmail.com'>lfernando.viola@gmail.com</a>
+   
   </p>
   <p align='center'>
-    <a href="#"><img src="https://badges.pufler.dev/visits/lfernandoviola/lfernandoviola"></a> All the lovers of technology and coffee meet here.</p>
+    <a href="#"><img src="https://badges.pufler.dev/visits/lfernandoviola/lfernandoviola"></a> All the lovers of technology.
+  </p>
   
   
    
