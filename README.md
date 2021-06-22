@@ -21,7 +21,7 @@
   
   
   <p align='center'>
-    💻👨‍💻 My best technical skills 👨‍💻💻<br/><br/>
+    💻👨‍💻 My Best Technical Skills 👨‍💻💻<br/><br/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -44,5 +44,17 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+    
+     
+  </p>
+  
+  
+  <p align='center'>
+    📫 How to reach me: <a href='mailto:lfernando.viola@gmail.com'>lfernando.viola@gmail.com</a>
+  </p>
+  <p align='center'>
+    <a href="#"><img src="https://badges.pufler.dev/visits/lfernandoviola/lfernandoviola"></a> All the lovers of technology and coffee meet here.</p>
+  
+  
    
 
