@@ -4,7 +4,7 @@
   </h1>
   
   <p align='center'>
-    A DataBase Administrator | SQL Developer from Ribeirão Preto, São Paulo.
+    A DataBase Administrator | SQL Developer  São Paulo
   </p>
   
   
